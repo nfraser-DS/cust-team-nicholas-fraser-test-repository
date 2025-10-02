@@ -1,0 +1,2 @@
+Place .sql files here. They will be tracked by git.
+

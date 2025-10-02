@@ -1,0 +1,6 @@
+# Ignore the notebook template
+template.ipynb
+
+# Ignore this file and desc.txt
+!.gitignore
+!desc.txt

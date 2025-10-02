@@ -1,0 +1,3 @@
+Place data files (.tsv, .csv, .xlsx, etc.) in this directory. They will NOT be tracked by git.
+
+Route files here from notebooks subdirectory via "../data/my_data_file.csv"
